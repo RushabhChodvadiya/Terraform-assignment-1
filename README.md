@@ -1,3 +1,3 @@
-# Terraform-assignment-1
-CCGC Terraform Automation Assignment Submission Repo
-# Automation_Azure_project
+# Terraform Project
+
+The project includes an Implementation of Azure and Terraform, which has Windows, Linux, Database Instances, Storage Accounts, VM extensions etc.
